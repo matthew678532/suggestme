@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:matthew678532/suggestme-api.git
+[submodule "web-client"]
+	path = web-client
+	url = git@github.com:matthew678532/suggestme-web-client.git
