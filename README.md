@@ -27,4 +27,30 @@ However, through implementing a RESTful api, the development of applications can
 
 ## Technologies and Tooling
 
-**_Todo.._**
+The technologies and tools I want to utilise within this project are as follows:
+
+### Technologies
+
+- Continous Integration, and Deployment
+- Version Control Systems
+- RESTful APIs (inc API Documentation)
+- Web Applications (Client Implementations)
+- Build Systems
+- Package Management
+- Databases (Hosted Solution)
+- Encryption / Security
+- Testing (Code Quality)
+- Design Patterns
+
+### Tooling
+
+- Jenkins (Webhooks via Github)
+- Git (Github as the Cloud Hosted Service)
+- NodeJS (Restify as the API Development Framework)
+- React, Sass (SCSS Syntax), JS (ES6), NodeJS
+- Gulp (API), Webpack (Web App)
+- NPM
+- MongoDB Solution (Possibly mLab/Easy to parse)
+- OAuth for User Accounts / HTTPS for API Endpoints
+- Mocha with Chai (API), Jest & Enzyme (Web App)
+- 3 Tier Architecture (API), MVC (Web App)
