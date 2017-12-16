@@ -63,7 +63,7 @@ The technologies and tools I want to utilise within this project are as follows:
 - NPM
 - MongoDB Solution (Possibly mLab/Easy to parse)
 - OAuth for User Accounts / HTTPS for API Endpoints
-- Mocha with Chai (API), Jest & Enzyme (Web App)
+- Mocha with Chai (API), Jest & Enzyme (Web App), ESLint
 - 3 Tier Architecture (API), MVC (Web App)
 
 ## Documentation Resources
