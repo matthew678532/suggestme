@@ -2,7 +2,7 @@
 
 ## Outline
 
-This is a brainstorm for an application which collects a users location data, and provides various activities local to the user.
+This is a brainstorm for an application which collects a users location data, and provides various activities local to the user within the United Kingdom.
 
 The thought process is that several apis shall be interrogated, to gather data relating to:
 
@@ -15,7 +15,18 @@ The thought process is that several apis shall be interrogated, to gather data r
 
 ## Possible APIs
 
-**_Todo.._**
+- UK cinema listing API (http://www.cinelist.co.uk/)
+- Large cinema listing API (https://developer.movieglu.com)
+- Fandangos APIs (Inc cinemas, theatres, etc https://developer.fandango.com/Fandango)
+- London Theatre Direct API (https://developer.londontheatredirect.com/documentation/api/inventory-api/introduction)
+- Songkick live music events (https://www.songkick.com/developer)
+- Eventful, an events API from concerts to sports events (http://api.eventful.com/)
+- The List, an events API specifying events within the UK (https://www.list.co.uk/about/events-data/)
+- Skiddle, a list of events within the UK (https://www.skiddle.com/api/)
+- Google Places API (https://developers.google.com/places/web-service/)
+- Food API (https://developers.zomato.com/api)
+- Foursquare (https://developer.foursquare.com/docs/api/getting-started)
+- National Park Service (https://www.nps.gov/subjects/developer/api-documentation.htm)
 
 ## Architecture
 
