@@ -55,7 +55,7 @@ The technologies and tools I want to utilise within this project are as follows:
 
 ### Tooling
 
-- Jenkins (Webhooks via Github)
+- CircleCI
 - Git (Github as the Cloud Hosted Service)
 - NodeJS (Restify as the API Development Framework)
 - React, Sass (SCSS Syntax), JS (ES6), NodeJS
